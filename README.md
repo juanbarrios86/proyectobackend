@@ -75,10 +75,26 @@ En el siguiente ejemplo vamos a ver cómo iniciamos sesión a través de POSTMAN
 
 Aquí podemos observar como resultado el token esperado.
 
-Una vez que tenemos el token lo vamos a poder utilizar para acceder a las rutas. Tendríamos que definir el Header la Key "Authorization" y en Value la palabra "bearer" un espacio y el token que obtuvimos. En este casa vamos a trabajar con un GET la ruta "products", de un producto especifico:
+Una vez que tenemos el token lo vamos a poder utilizar para acceder a las rutas. Tendríamos que definir el Header la Key "Authorization" y en Value la palabra "bearer" un espacio y el token que obtuvimos anteriormente. En este casa vamos a trabajar con un GET la ruta **products**, de un producto especifico:
 
 - ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/autorization.JPG)
 
 De esta forma accedimos a la información. Sin el token no nos hubiera mostrado nada, nos daría un error de clave inálida. Esta es una forma de poder acceder a las rutas para probar el sistema, pero existen muchas formas. Lo importante es tener en cuenta el tema del token.
 
-A
+A continuación se detallan todas las rutas disponibles:
+
+**USUARIOS**
+- ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/login.JPG)
+
+
+**PRODUCTOS**
+- ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/products.JPG)
+
+**CARRITO**
+- ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/cart.JPG)
+
+**ORDENES**
+- ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/order.JPG)
+
+**CHAT**
+- ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/chat.JPG)
