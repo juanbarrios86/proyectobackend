@@ -86,7 +86,6 @@ A continuación se detallan todas las rutas disponibles:
 **USUARIOS**
 - ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/login.JPG)
 
-
 **PRODUCTOS**
 - ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/products.JPG)
 
@@ -98,3 +97,9 @@ A continuación se detallan todas las rutas disponibles:
 
 **CHAT**
 - ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/chat.JPG)
+
+
+### Creador
+
+Creado por Juan Barrios
+2021-2021 - [Ver Linkedin](https://www.linkedin.com/in/juancarlosbarrios/) .
