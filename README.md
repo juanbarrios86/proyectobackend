@@ -57,13 +57,13 @@ npm start
 
 - Al acceder a través del explorador a http://localhost:8080/ nos va a redirección a http://localhost:8080/login permitir iniciar sesión o crear un nuevo usuario. Una vez que iniciamos sesión nos va a mostrar el token que nos generó. La proxima vez que ingresemos a la misma ruta, nos va a redireccionar a http://localhost:8080/products
 
-  - ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/login.JPG)
+  - ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/frontlogin.JPG)
 
 **El usuario administrador es administrador@coder y su contraseña es password.01**
 
 - Para acceder al chat primero vamos tener que iniciar sesión como en el paso anterior y luego vamos a escribir la siguiente ruta http://localhost:8080/chat Desde aquí vamos a poder ver los mensajes generales y en el caso de ser el usuario administrador, vamos a poder responder los mensajes también.
 
-  - ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/chat.JPG)
+  - ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/frontchat.JPG)
 
 
 ### Uso del sistema a través de POSTMAN
