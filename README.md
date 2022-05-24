@@ -53,6 +53,8 @@ Se pueden craer una cuenta para obterner los datos de servidor de correo (MAIL_E
 npm start
 ```
 
+### Uso del sistema a través de explorador
+
 - Al acceder a través del explorador a http://localhost:8080/ nos va a redirección a http://localhost:8080/login permitir iniciar sesión o crear un nuevo usuario. Una vez que iniciamos sesión nos va a mostrar el token que nos generó. La proxima vez que ingresemos a la misma ruta, nos va a redireccionar a http://localhost:8080/products
 
   - ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/login.JPG)
@@ -64,5 +66,5 @@ npm start
   - ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/chat.JPG)
 
 
-
+### Uso del sistema a través de POSTMAN
 
