@@ -2,10 +2,9 @@
 
 ## E-commerce project - Desarrollo de backend de una aplicación de e-commerce para poder vender productos de un rubro a elección.
 
-## Features
+## Dependencias utilizadas
 
  - **Express** : Framework utilizado.
- - **MongoDB** :  Base de datos utilizada.
  - **Mongoose** Biblioteca para crear las conexiones con las base de datos con Express.
  - **Bcrypt** : Utilizado para encriptar las contraseñas.
  - **JWT** : Generador de Token para los inicio de sesión
