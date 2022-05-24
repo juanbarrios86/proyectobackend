@@ -99,7 +99,7 @@ A continuación se detallan todas las rutas disponibles:
 - ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/chat.JPG)
 
 
-### Creador
+## Creador
 
 Creado por Juan Barrios
 2021-2022 - [Ver Linkedin](https://www.linkedin.com/in/juancarlosbarrios/) .
