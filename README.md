@@ -14,17 +14,6 @@
  - **Socket.io**: Utilizado para el chat.
 
 
-
-## Features
-
- - **Express** : web application framework
- - **MongoDB** :  NOSql Database
- - **Mongoose** library that creates a connection between MongoDB and Express
- - **Nodemailer**: Mail manager
- - **EJS**: templating language for the sing up, login and chat views
- - **JWT** : Authorization token generator
- - **Bcrypt** : password encryptor
- - **Socket.io**: library for real-time web applications. Used for the chat
 ### Pasos de instalación del proyecto
 
 
@@ -43,7 +32,7 @@ npm install
 
 
 **MONGO_DB_URI**=Dirección de la base de datos Mongo Atlas
-**CORS=***
+**CORS=** *
 **PORT=**Definición del puerto. Puede ser 8080 por ejemplo
 **JWT_PRIVATE_KEY=**Definición de la clave privada. Puede ser "miclaveprivada"
 **COOKIE_MAX_AGE=**Tiempo de duración de la cookie en milisegundos. Puede ser 10 minutos por ejemplo "600000"
