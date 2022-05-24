@@ -102,4 +102,4 @@ A continuación se detallan todas las rutas disponibles:
 ### Creador
 
 Creado por Juan Barrios
-2021-2021 - [Ver Linkedin](https://www.linkedin.com/in/juancarlosbarrios/) .
+2021-2022 - [Ver Linkedin](https://www.linkedin.com/in/juancarlosbarrios/) .
