@@ -68,3 +68,9 @@ npm start
 
 ### Uso del sistema a través de POSTMAN
 
+Para acceder por POSTMAN también es importante iniciar sesión como explicamos en el punto anterior, ya que vamos a necesitar el token para acceder a las rutas.
+
+En el siguiente ejemplo vamos a ver cómo iniciamos sesión a través de POSTMAN:
+- ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/iniciosesionpostman.JPG)
+
+Aquí podemos observar como resultado el token esperado.
