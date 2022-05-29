@@ -59,12 +59,12 @@ npm start
 
   - ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/frontlogin.JPG)
 
-**El usuario administrador es administrador@coder y su contraseña es password.01**
 
 - Para acceder al chat primero vamos tener que iniciar sesión como en el paso anterior y luego vamos a escribir la siguiente ruta http://localhost:8080/chat Desde aquí vamos a poder ver los mensajes generales y en el caso de ser el usuario administrador, vamos a poder responder los mensajes también.
 
   - ![alt text](https://raw.githubusercontent.com/juanbarrios86/proyectobackend/main/Readme/frontchat.JPG)
 
+**Crear un usuario llamado administrador@coder para responder los chats de los usuarios**
 
 ### Uso del sistema a través de POSTMAN
 
